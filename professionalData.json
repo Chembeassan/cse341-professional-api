@@ -1,0 +1,20 @@
+{
+  "professionalName": "Assan Chembe",
+  "base64Image": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==",
+  "primaryDescription": "Full Stack Developer & CSE Student",
+  "nameLink": {
+    "firstName": "Assan",
+    "url": "https://github.com/Chembeassan"
+  },
+  "workDescription1": "Passionate about web development and creating efficient, scalable applications. Currently studying Web Services and backend development.",
+  "workDescription2": "Experienced with Node.js, Express, MongoDB, and modern web technologies. Always eager to learn and tackle new challenges.",
+  "linkTitleText": "Connect with me:",
+  "linkedInLink": {
+    "text": "LinkedIn Profile",
+    "link": "https://linkedin.com/in/assanchembe"
+  },
+  "githubLink": {
+    "text": "GitHub Portfolio", 
+    "link": "https://github.com/Chembeassan"
+  }
+}
