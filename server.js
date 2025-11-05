@@ -25,7 +25,7 @@ const professionalData = {
   "linkTitleText": "Connect with me:",
   "linkedInLink": {
     "text": "LinkedIn Profile",
-    "link": "https://linkedin.com/in/yourprofile"
+    "link": "https://linkedin.com/in/aasanchembe"
   },
   "githubLink": {
     "text": "GitHub Portfolio", 
